@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 💬 Ask me about ** c,c++,css,js and DSA**
+- 💬 Ask me about **c,c++,css,js and DSA**
 
 - 📫 How to reach me **adarshranjan384@gmail.com**
 
