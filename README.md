@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@adarshranjan230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adarshranjan230" height="30" width="40" /></a>
 <a href="https://instagram.com/adarsh_ranjan_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_ranjan_02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adarshrazdnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshrazdnu" height="30" width="40" /></a>
-<a href="https://codolio.com/profile/xyfsgxjI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codolio.svg" alt="xyfsgxjI" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/xyfsgxjI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codolio.svg" alt="@xyfsgxjI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
